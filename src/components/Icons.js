@@ -37,4 +37,4 @@ export const Ring = () => (
   </svg>
 );
 
-export default null;
+// no default export — components are exported by name
